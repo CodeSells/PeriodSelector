@@ -1,0 +1,39 @@
+{
+    "name": "periodselector",
+    "title": "Period Selector - jQuery Year or Month Selector",
+    "description": "Period Selector is a visual element to select a single month or year.",
+    "keywords": [
+        "period",
+        "time",
+		"year",
+		"month",
+		"select",
+        "selector",
+        "filter",
+		"ui",
+		"jquery"
+    ],
+    "version": "1.0.1",
+    "author": {
+        "name": "Mehrdad Noroozi Eghbali"
+    },
+    "maintainers": [
+        {
+            "name": "Mehrdad Noroozi Eghbali",
+            "email": "mehrdad@codesells.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "http://tinytools.codesells.com/Contact",
+    "homepage": "http://tinytools.codesells.com/PeriodSelector",
+    "docs": "http://tinytools.codesells.com/PeriodSelector",
+    "download": "http://tinytools.codesells.com/PeriodSelector",
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
